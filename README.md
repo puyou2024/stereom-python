@@ -147,6 +147,12 @@ please cite:
 and link to the original MATLAB repository:
 <https://github.com/Ziling-Wu/Quantitative-3D-structural-analysis-of-the-cellular-microstructures>.
 
+## License
+
+No license has been chosen yet. The original MATLAB repository does not
+carry a license either. Please contact the maintainer before reusing or
+redistributing this code beyond academic use and citation.
+
 ## Acknowledgements
 
 Original MATLAB toolbox and methodology: Ting Yang, Ziling Wu, Hongshun
